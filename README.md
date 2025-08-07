@@ -12,8 +12,8 @@ In this project i simply vreated an image responsive web page where users can cl
 
 - Layout using CSS Flexbox and Media Q
 - Alt text for all images to support screen reader
-- Smooth image switching
-- Clean and accessible design
+- Image cycling
+- Accessible design
 
 ---
 
