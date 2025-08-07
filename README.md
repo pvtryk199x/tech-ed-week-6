@@ -4,7 +4,7 @@
 
 
 
-In this project i simply vreated an image responsive web page where users can click on a picture or a thumbnail and it will display on the main pucture on top
+In this project i simply created an image responsive web page where users can click on a picture or a thumbnail and it will display on the main pucture on top
 
 ---
 
