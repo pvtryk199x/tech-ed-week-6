@@ -45,7 +45,15 @@ body {
 
 
 
+@media (min-width: 800px) {
   .imageline {
     flex-direction: column;
     gap: 0.5rem;
   }
+
+.button img:focus,
+.button img:hover {
+  outline: 2px solid #007acc;
+  border-radius: 4px;
+}
+}
